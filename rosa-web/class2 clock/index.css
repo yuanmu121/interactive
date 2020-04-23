@@ -1,0 +1,100 @@
+		
+		#content1{
+			font-size: 30px;
+			font-family: H-MingLiUC-Old-Pattenrs-03;
+			word-spacing: 3px;
+			letter-spacing: 2px;
+			line-height:45px;
+			width:600px;
+			/*margin: 40px;*/
+
+		}
+
+		#content2{
+			font-size: 45px;
+			font-family:Dignitas;
+			letter-spacing: 1px;
+			/*margin:5px;*/
+
+		}
+
+		#content3{
+			font-size: 25px;
+			margin-right: 120px;
+			margin-left: 240px;
+			letter-spacing: 2px;
+			font-family: Akzidenz-Grotesk BQ;
+			line-height:40px;
+			font-style: lighter;
+		}
+
+		#content4{
+			font-size: 15px;
+			/*margin: 10px;*/
+
+		}
+
+		#content5{
+			font-size: 20px;
+			/*margin: 10px;*/
+		}
+
+		#content6{
+			font-size: 25px;
+			font-family: Perpetua Titling MT;
+			/*margin:350px;*/
+			letter-spacing: 2px;
+			word-spacing:1px;
+			line-height: 35px;
+
+
+		}
+
+		#content7{
+			font-size: 25px;
+			text-shadow:  0 0 30px black, 0 0 50px black;
+			letter-spacing: 1px;
+			line-height:30px;
+			width:800px;
+			font-family:Dignitas;
+		}
+
+		#content8{
+			font-size: 30px;
+			font-family: H-MingLiUC-Old-Pattenrs-03;
+			word-spacing: 2px;
+			letter-spacing: 1px;
+			line-height:38px;
+			width:1200px;
+			/*margin: 40px;*/
+		}
+
+		#content9{
+			font-size: 45px;
+			text-shadow:  0 0 10px black,0 0 30px black, 0 0 50px black, 0 0 100px black;
+			width:800px;
+			word-spacing: 1px;
+			letter-spacing: 1px;
+			font-family:Dignitas;
+
+		}
+
+		#content10{
+			font-size: 30px;
+			font-family: Akzidenz-Grotesk BQ;
+			/*margin:400px;*/
+			word-spacing: 1px;
+			letter-spacing: 1px;
+
+
+
+
+		}
+
+		#content11{
+			font-size: 20px;
+			font-family: Akzidenz-Grotesk BQ;
+			/*margin:400px;*/
+			word-spacing: 1px;
+			letter-spacing: 1px;
+		}
